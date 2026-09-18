@@ -1,0 +1,6 @@
+{
+  "name": "Kopi & Ruang - Cafe & Roastery",
+  "description": "Platform pemesanan menu online cafe, sistem reservasi meja real-time, payment gateway (QRIS, E-Wallet, VA Bank), notifikasi otomatis WhatsApp/Email, dan dashboard manajemen penjualan & inventaris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
